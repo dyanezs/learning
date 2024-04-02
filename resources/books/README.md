@@ -4,13 +4,21 @@ This directory contains a collection of books that I have read as part of my edu
 
 ## List of Books
 
-Here are the books I've read, along with their authors and links to their respective folders containing my notes and summaries.
+Here are the books I've read, sorted alphabetically by title, along with their authors and links to their respective folders containing my notes and summaries.
+
+### Ace the Data Science Interview
+
+Authors: Nick Singh & Kevin Huo
+
+<a href="./ace-the-data-science-interview/"><img src="./ace-the-data-science-interview/book-cover.jpg" alt="Ace the Data Science Interview" width="100px"></a>
+
+- **Folder**: [Ace the Data Science Interview](./ace-the-data-science-interview/)
 
 ### Cloud FinOps
 
 Author: J.R. Storment & Mike Fuller
 
-[![Cloud FinOps](./cloud-finops/book-cover.jpg)](./cloud-finops/)
+<a href="./cloud-finops/"><img src="./cloud-finops/book-cover.jpg" alt="Cloud FinOps" width="100px"></a>
 
 - **Folder**: [Cloud FinOps](./cloud-finops/)
 
@@ -18,7 +26,7 @@ Author: J.R. Storment & Mike Fuller
 
 Author: Martin Kleppmann
 
-[![Designing Data-Intensive Applications](./designing-data-intensive-applications/book-cover.jpg)](./designing-data-intensive-applications/)
+<a href="./designing-data-intensive-applications/"><img src="./designing-data-intensive-applications/book-cover.jpg" alt="Designing Data-Intensive Applications" width="100px"></a>
 
 - **Folder**: [Designing Data-Intensive Applications](./designing-data-intensive-applications/)
 
@@ -26,25 +34,17 @@ Author: Martin Kleppmann
 
 Author: Alex Xu
 
-[![System Design Interview - An Insider's Guide](./system-design-interview/book-cover.jpg)](./system-design-interview/)
+<a href="./system-design-interview/"><img src="./system-design-interview/book-cover.jpg" alt="System Design Interview - An Insider's Guide" width="100px"></a>
 
 - **Folder**: [System Design Interview - An Insider's Guide](./system-design-interview/)
-
-### Ace the Data Science Interview
-
-Authors: Nick Singh & Kevin Huo
-
-[![Ace the Data Science Interview](./ace-the-data-science-interview/book-cover.jpg)](./ace-the-data-science-interview/)
-
-- **Folder**: [Ace the Data Science Interview](./ace-the-data-science-interview/)
 
 ### The Data Warehouse Toolkit
 
 Author: Ralph Kimball & Margy Ross
 
-[![The Data Warehouse Toolkit](./the-data-warehouse-toolkit/book-cover.jpg)](./the-data-warehouse-toolkit/)
+<a href="./the-data-warehouse-toolkit/"><img src="./the-datawarehouse-toolkit/book-cover.jpg" alt="The Data Warehouse Toolkit" width="100px"></a>
 
-- **Folder**: [The Data Warehouse Toolkit](./the-data-warehouse-toolkit/)
+- **Folder**: [The Data Warehouse Toolkit](./the-datawarehouse-toolkit/)
 
 ---
 
