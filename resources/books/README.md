@@ -10,7 +10,7 @@ Here are the books I've read, sorted alphabetically by title, along with their a
 
 Authors: Nick Singh & Kevin Huo
 
-<a href="./ace-the-data-science-interview/"><img src="./ace-the-data-science-interview/book-cover.jpg" alt="Ace the Data Science Interview" width="100px"></a>
+<a href="./ace-the-data-science-interview/"><img src="./ace-the-data-science-interview/book-cover.jpg" alt="Ace the Data Science Interview" width="250px"></a>
 
 - **Folder**: [Ace the Data Science Interview](./ace-the-data-science-interview/)
 
@@ -18,7 +18,7 @@ Authors: Nick Singh & Kevin Huo
 
 Author: J.R. Storment & Mike Fuller
 
-<a href="./cloud-finops/"><img src="./cloud-finops/book-cover.jpg" alt="Cloud FinOps" width="100px"></a>
+<a href="./cloud-finops/"><img src="./cloud-finops/book-cover.jpg" alt="Cloud FinOps" width="250px"></a>
 
 - **Folder**: [Cloud FinOps](./cloud-finops/)
 
@@ -26,7 +26,7 @@ Author: J.R. Storment & Mike Fuller
 
 Author: Martin Kleppmann
 
-<a href="./designing-data-intensive-applications/"><img src="./designing-data-intensive-applications/book-cover.jpg" alt="Designing Data-Intensive Applications" width="100px"></a>
+<a href="./designing-data-intensive-applications/"><img src="./designing-data-intensive-applications/book-cover.jpg" alt="Designing Data-Intensive Applications" width="250px"></a>
 
 - **Folder**: [Designing Data-Intensive Applications](./designing-data-intensive-applications/)
 
@@ -34,7 +34,7 @@ Author: Martin Kleppmann
 
 Author: Alex Xu
 
-<a href="./system-design-interview/"><img src="./system-design-interview/book-cover.jpg" alt="System Design Interview - An Insider's Guide" width="100px"></a>
+<a href="./system-design-interview/"><img src="./system-design-interview/book-cover.jpg" alt="System Design Interview - An Insider's Guide" width="250px"></a>
 
 - **Folder**: [System Design Interview - An Insider's Guide](./system-design-interview/)
 
@@ -42,7 +42,7 @@ Author: Alex Xu
 
 Author: Ralph Kimball & Margy Ross
 
-<a href="./the-data-warehouse-toolkit/"><img src="./the-datawarehouse-toolkit/book-cover.jpg" alt="The Data Warehouse Toolkit" width="100px"></a>
+<a href="./the-data-warehouse-toolkit/"><img src="./the-datawarehouse-toolkit/book-cover.jpg" alt="The Data Warehouse Toolkit" width="250px"></a>
 
 - **Folder**: [The Data Warehouse Toolkit](./the-datawarehouse-toolkit/)
 
