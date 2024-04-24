@@ -41,12 +41,14 @@ This course, taught by Dan Sullivan, covers mostly theory with practical example
         - Customer managed: using Cloud Key Management Service.
         - Customer supplied.
 - Loading Data
-| Small        | Big                                                        |
-|--------------|------------------------------------------------------------|
-| Console      | Cloud Storage Transfer <br>On Premise transfer: gsutil (< 1TB) <br>Cloud Storage Transfer Service (> 1TB)   |
-| Command Line | VPC Network Peering - Between Google Org.                  |
-| API          | Cloud VPN - 1.5 Gbps - 3 Gbps                              |
-|              | Transfer Appliance - Go to your Data Center 100 TB, 480    |
+
+| Small        | Big                                                                                                   |
+|--------------|-------------------------------------------------------------------------------------------------------|
+| Console      | Cloud Storage Transfer <br>On Premise transfer: gsutil (< 1TB) <br>Cloud Storage Transfer Service (> 1TB)  |
+| Command Line | VPC Network Peering - Between Google Org.                                                             |
+| API          | Cloud VPN - 1.5 Gbps - 3 Gbps                                                                         |
+|              | Transfer Appliance - Go to your Data Center 100 TB, 480 TB                                             |
+
 - Access
     - Uniform Bucket Level Access - IAM.
     - Fine-grained - List of users.
